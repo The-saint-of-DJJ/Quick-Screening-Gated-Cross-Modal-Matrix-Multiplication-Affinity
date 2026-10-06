@@ -12,7 +12,7 @@ The package contains:
 - `screening.py`: encoded matrix coarse screening, batched pair scoring, MC-dropout uncertainty, and TSV output.
 
 The package does not include digestion, target acquisition, structure preparation,
-docking, molecular dynamics, manuscript generation, or plotting.
+docking, molecular dynamics, or plotting.
 
 ## Commands
 
